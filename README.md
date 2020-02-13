@@ -1,5 +1,7 @@
-# Eigen-Faces
-In this task, I develop code for my own facial recognition library using Eigen faces. Eigenvectors have many applications which are not limited to obtaining surface normals from a set of point clouds.
+# Eigen-Faces and OpenCV
+In this task, I developed code for my own facial recognition library using Eigen faces and OpenCV (i.e.) by using API or libraries and without any available APIs or libraries. Eigenvectors have many applications which are not limited to obtaining surface normals from a set of point clouds.
+
+**Programming Language Used: Python**
 
 An eigenface really is nothing else than an eigenvector, in this case reshaped for plotting. Eigenfaces can be used in facial recognition, allowing a robot to distinguish between different persons, but can also be applied to other use cases, such as voice or gesture recognition.
 
@@ -11,4 +13,6 @@ The task consists of the following subtasks:
 A dataset for training your recognition algorithm is given in the data/training folder. The images in the data/test folder should be used for testing the algorithm.
 
 Note: Principal Component Analysis (PCA) is used here
+
+Following to it, the face recognition task is also performed using inbuild library - OpenCV. 
 
