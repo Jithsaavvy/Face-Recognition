@@ -1,4 +1,4 @@
-# Eigen-Faces and OpenCV
+# Face-Recognition
 In this task, I developed code for my own facial recognition library using Eigen faces and OpenCV (i.e.) by using API or libraries and without any available APIs or libraries.
 
 **Programming Language Used: Python**
